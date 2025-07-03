@@ -1,4 +1,4 @@
-## Hi, I'm Teoman 👋
+# Hi, I'm Teoman! 👋
 🎓 3rd-year IT student (Software Development) at Odisee University of Applied Sciences  
 🧑‍💻 Passionate about clean code, thoughtful design, and building scalable software solutions.  
 Currently seeking internships starting February 2026 in full-stack or mobile development.
