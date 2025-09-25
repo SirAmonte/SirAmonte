@@ -1,6 +1,6 @@
 # Hi, I'm Teoman! 👋
-🎓 3rd-year Applied Computer Science student at Odisee University of Applied Sciences
-🧑‍💻 Passionate about clean code, thoughtful design, and building scalable software solutions
+🎓 3rd-year Applied Computer Science student at Odisee University of Applied Sciences  
+🧑‍💻 Passionate about clean code, thoughtful design, and building scalable software solutions  
 🚀 Seeking full-stack or mobile development internships starting February 2026
 
 
